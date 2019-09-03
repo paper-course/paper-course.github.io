@@ -2,7 +2,7 @@
 
 ### 1.1 第一课时
 
-<video width=50% src="001-deep-learning/001-1.mp4" controls="controls"></video>
+<video width=50% src="001-deep-learning/001-1.mp4" controls="controls" />
 
 任务名称： 了解深度学习基础知识、背景、监督学习和反向传播算法
 
@@ -32,7 +32,7 @@
 
 ### 1.2 第二课时
 
-<video width=50% src="001-deep-learning/001-2.mp4" controls="controls"></video>
+<video width=50% src="001-deep-learning/001-2.mp4" controls="controls" />
 
 任务名称：重点理解卷积神经网络、经典卷积神经网络和视觉理解任务
 
@@ -52,7 +52,7 @@
 
 ### 1.3 第三课时
 
-<video width=50% src="001-deep-learning/001-3.mp4" controls="controls"></video>
+<video width=50% src="001-deep-learning/001-3.mp4" controls="controls" />
 
 任务名称：了解分布表示和语言模型，掌握循环神经网络RNN原理、论文中对未来的展望和现实的实现。
 
