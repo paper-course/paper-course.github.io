@@ -9,3 +9,4 @@
 2. [Efficient Estimation of Word Representations in Vector Space](nlp/002-efficient-estimation-of-word-representations-in-vector-space.md)
 3. [Distributed representations of sentences and docments](nlp/003-distributed-representations-of-sentences-and-docments.md)
 4. [Neural Machine Translation by Jointly Learning to Align and Translate](nlp/004-neural-machine-translation-by-Jointly-learning-to-align-and-translate.md)
+5. [Attention is all you need](nlp/005-attention-is-all-you-need.md)
