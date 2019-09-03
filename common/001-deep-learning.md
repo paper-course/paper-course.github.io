@@ -2,7 +2,7 @@
 
 ### 1.1 第一课时
 
-<video width=50% src="001-deep-learning/001-1.mp4" controls="controls" />
+- <video width=50% src="001-deep-learning/001-1.mp4" controls="controls" />
 
 任务名称： 了解深度学习基础知识、背景、监督学习和反向传播算法
 
