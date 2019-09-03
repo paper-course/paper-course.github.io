@@ -2,9 +2,10 @@
 
 ### 1.1 第一课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="001-deep-learning/001-1.mp4">
 </video>
+
 
 任务名称： 了解深度学习基础知识、背景、监督学习和反向传播算法
 
@@ -34,7 +35,7 @@
 
 ### 1.2 第二课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="001-deep-learning/001-2.mp4">
 </video>
 
@@ -56,7 +57,7 @@
 
 ### 1.3 第三课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="001-deep-learning/001-3.mp4">
 </video>
 

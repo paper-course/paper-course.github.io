@@ -2,9 +2,10 @@
 
 ### 2.1 第一课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="002-imagenet-classification-with-deep-convolutional-neural-networks/002-1.mp4">
 </video>
+
 
 任务名称：了解论文研究背景成果及意义。了解神经网络处理图像分类问题的趋势。掌握图神经网络进行图像分类流程，掌握特征的概念。
 
@@ -38,7 +39,7 @@
 
 ### 2.2 第二课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="002-imagenet-classification-with-deep-convolutional-neural-networks/002-2.mp4">
 </video>
 
@@ -64,7 +65,7 @@
 
 ### 2.3 第三课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="002-imagenet-classification-with-deep-convolutional-neural-networks/002-3.mp4">
 </video>
 
@@ -90,7 +91,7 @@
 
 ### 2.4 第四课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="002-imagenet-classification-with-deep-convolutional-neural-networks/002-4.mp4">
 </video>
 
@@ -122,7 +123,7 @@
 
 ### 2.5 第五课时
 
-<video width=50%  controls >
+<video width=80%  controls >
 	<source type="video/mp4" src="002-imagenet-classification-with-deep-convolutional-neural-networks/002-5.mp4">
 </video>
 
