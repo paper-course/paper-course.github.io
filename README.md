@@ -6,3 +6,4 @@
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
+2. [Efficient Estimation of Word Representations in Vector Space](nlp/002-efficient-estimation-of-word-representations-in-vector-space.md)
