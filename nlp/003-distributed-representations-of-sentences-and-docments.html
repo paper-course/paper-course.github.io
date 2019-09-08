@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Distributed Representations of Sentences and Docments | PAPER COURSE</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Distributed Representations of Sentences and Docments" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="https://paper-course.github.io/" />
+<meta property="og:description" content="https://paper-course.github.io/" />
+<link rel="canonical" href="https://paper-course.github.io/nlp/003-distributed-representations-of-sentences-and-docments.html" />
+<meta property="og:url" content="https://paper-course.github.io/nlp/003-distributed-representations-of-sentences-and-docments.html" />
+<meta property="og:site_name" content="PAPER COURSE" />
+<script type="application/ld+json">
+{"headline":"Distributed Representations of Sentences and Docments","@type":"WebPage","url":"https://paper-course.github.io/nlp/003-distributed-representations-of-sentences-and-docments.html","description":"https://paper-course.github.io/","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=9478969374a5aa2992dde3a60485ce064cea873a">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">PAPER COURSE</h1>
+      <h2 class="project-tagline">https://paper-course.github.io/</h2>
+      
+      
+    </section>
+
+    <section class="main-content">
+      <h2 id="3-distributed-representations-of-sentences-and-docments">3. Distributed Representations of Sentences and Docments</h2>
+
+<h3 id="31-第一课时">3.1 第一课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="003-distributed-representations-of-sentences-and-docments/003-1.mp4" />
+</video>
+
+<p>任务名称：了解句子分布式句子表示的概念，了解几种传统的句子分布式表示方法，了解词向量以及其学习到的语义和语法特征的含义，了解基于语言模型的词向量训练方法。</p>
+
+<p>任务简介：观看视频第一课时，阅读论文</p>
+
+<p>任务详解：</p>
+
+<ol>
+  <li>
+    <p>视频第一课时</p>
+
+    <ol>
+      <li>
+        <p>分布式句子表示概念和几种传统方法</p>
+
+        <p>分布式句子表示就是将句子表示成向量，这个向量能够包括句子中词的语法和句子的语义信息。介绍了两类句子分布式方法，一种是Bag-of-words也就是词袋模型，还有一种就是基于词向量的方法。</p>
+      </li>
+      <li>
+        <p>词向量以及其学习到的语法和语义特征的含义</p>
+
+        <p>词向量就是将一个词映射成一个连续空间中的向量，其中使用word2vec等方法学习到的词向量可以学习到词的语法和语义信息，语法信息就是将动词聚集在一块，名词聚集在一块。而语义特征就是将语义近的词聚集在一块，比如powerful和strong，并且还有更加独特的性质，king的词向量减去queen的词向量等于man的词向量减去woman的词向量。</p>
+      </li>
+      <li>
+        <p>基于语言模型的词向量学习方法</p>
+
+        <p>使用语言模型学习词向量是2003年Bengio的文章，其中通过预测下一个词的任务来学习到每个词的词向量并且学习到一个非常好的语言模型。本次讲解的论文也是根据这个模型改进的，而且之后需要讲的ELMO，BERT等都是基于语言模型的。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>论文阅读</p>
+
+    <p>花费大致2h来阅读论文，主要通过阅读了解模型的大致结构，将疑问记录在作业中。</p>
+
+    <p>这个部分我们只需要比较熟悉地了解到导读视频的程度，不需要过于深入地去学习，将重点放置在论文的模型上，对于其他的部分有疑问可以暂时记录着，并写在这两天的作业中。</p>
+  </li>
+</ol>
+
+<p>论文原文：</p>
+
+<p>链接：https://pan.baidu.com/s/1R9zVznl-qp7KQkItFLVVTA</p>
+
+<p>提取码：bsee</p>
+
+<p>代码下载地址：https://github.com/pvop/NLP_Paper_Projects</p>
+
+<p>打卡要求：（形式：文字，字数至少100）思考并总结传统的几种句向量学习方法的缺点，并且总结词向量的概念以及其学习到语义和语法特征的含义，尝试学习并总结基于语言模型的词向量训练方法。</p>
+
+<h3 id="32-第二课时">3.2 第二课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="003-distributed-representations-of-sentences-and-docments/003-2.mp4" />
+</video>
+
+<p>任务名称：学习阅读论文的方法，进一步了解经典模型的部分细节，从理论掌握模型结构，论文中的技巧</p>
+
+<p>任务简介：观看视频第二课时，阅读论文</p>
+
+<p>任务详解：</p>
+
+<ol>
+  <li>
+    <p>视频</p>
+
+    <ol>
+      <li>
+        <p>传统的几种句向量学习方法以及它们的缺点</p>
+
+        <p>复习昨天讲解的几种传统的句向量学习方法并总结它们的缺点。</p>
+      </li>
+      <li>
+        <p>基于语言模型的句向量学习方法</p>
+
+        <p>深入理解语言模型以及基于语言模型的词向量训练方法。</p>
+      </li>
+      <li>
+        <p>论文提出的模型以及实验结果</p>
+
+        <p>深入理解论文提出的两种句向量训练模型并且了解实验流程以及实验结果。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>阅读论文</p>
+
+    <p>先自己尝试观看本次论文，然后在看视频进一步解决自己的困惑并加强理解本片论文。</p>
+  </li>
+</ol>
+
+<p>打卡要求：（形式：文字或者图片，字数至少100）</p>
+
+<ol>
+  <li>
+    <p>什么是语言模型，并且语言模型的评价方法是什么？</p>
+  </li>
+  <li>
+    <p>本文提出的两个模型是什么？</p>
+  </li>
+  <li>
+    <p>模型如果进行训练和测试，以及实验数据集和实验结果怎么样？</p>
+  </li>
+</ol>
+
+<h3 id="33-第三课时">3.3 第三课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="003-distributed-representations-of-sentences-and-docments/003-3.mp4" />
+</video>
+
+<p>任务名称：代码实践的方法与流程，从0编码模型结构，讲解训练部分内容</p>
+
+<p>任务简介：观看视频第三课时，跑通提供的代码，调整网络结构提升准确率</p>
+
+<p>任务详解：</p>
+
+<ol>
+  <li>
+    <p>视频</p>
+
+    <ol>
+      <li>
+        <p>数据处理方法</p>
+
+        <p>自然语言处理的工作数据处理方法大体类似，所以学习自然语言处理数据处理方法，并且能够做到在新的任务上很快完成数据处理。</p>
+      </li>
+      <li>
+        <p>模型的构建</p>
+
+        <p>使用tensorflow构建整个模型，包括训练和测试阶段的代码。</p>
+      </li>
+      <li>
+        <p>训练和测试</p>
+
+        <p>利用构建好的模型在以及处理好的数据上进行训练和测试并验证试验结果。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>调整学习轮次提高准确率</p>
+
+    <p>通过调整学习的轮次查看模型的准确率是否能够一直提高。</p>
+  </li>
+</ol>
+
+<p>附代码下载地址： https://github.com/pvop/NLP_Paper_Projects</p>
+
+<p>打卡要求：（形式：图片）</p>
+
+<ol>
+  <li>
+    <p>开源自己的tensorflow (其他框架均可以)实现。</p>
+  </li>
+  <li>
+    <p>在IMDB数据集上的结果截图。</p>
+  </li>
+</ol>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
