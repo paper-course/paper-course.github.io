@@ -10,3 +10,5 @@
 3. [Distributed representations of sentences and docments](nlp/003-distributed-representations-of-sentences-and-docments.md)
 4. [Neural Machine Translation by Jointly Learning to Align and Translate](nlp/004-neural-machine-translation-by-Jointly-learning-to-align-and-translate.md)
 5. [Attention is all you need](nlp/005-attention-is-all-you-need.md)
+6. [GloVe: Global Vectors for Word Representation](nlp/006-gloVe-global-vectors-for-word-representation.md)
+
