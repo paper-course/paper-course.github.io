@@ -12,6 +12,9 @@
 10. [Mask R-CNN](cv/010-mask-r-cnn.html)
 11. [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](cv/011-joint-face-detection-and-alignment-using-multi-task-cascaded-convolutional-networks.html)
 12. [FaceNet: A Unified Embedding for Face Recognition and Clustering](cv/012-facenet-a-unified-embedding-for-face-recognition-and-clustering.html)
+13. [Fully Convolutional Networks for Semantic Segmentation](cv/013-fully-convolutional-networks-for-semantic-segmentation.md)
+14. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](cv/014-deeplab-v2-semantic-image-segmentation.md)
+15. [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](cv/015-segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
