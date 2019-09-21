@@ -5,6 +5,7 @@
 3. [Very Deep Convolutional Networks for Large-Scale Image Recognition](cv/003-very-deep-convolutional-networks-for-large-scale-image-recognition.html)
 4. [Deep Residual Learning for Image Recognition](cv/004-deep-residual-learning-for-image-recognition.html)
 5. [Going Deeper with Convolutions](cv/005-going-deeper-with-convolutions.md)
+6. [You Only Look Once: Unified, Real-Time Object Detection](cv/006-you-only-look-once.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
