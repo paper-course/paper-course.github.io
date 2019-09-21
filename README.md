@@ -12,6 +12,7 @@
 10. [Mask R-CNN](cv/010-mask-r-cnn.md)
 11. [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](cv/011-joint-face-detection-and-alignment-using-multi-task-cascaded-convolutional-networks.md)
 12. [FaceNet: A Unified Embedding for Face Recognition and Clustering](cv/012-facenet-a-unified-embedding-for-face-recognition-and-clustering.md)
+13. [Fully Convolutional Networks for Semantic Segmentation](cv/013-fully-convolutional-networks-for-semantic-segmentation.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
@@ -20,4 +21,3 @@
 4. [Neural Machine Translation by Jointly Learning to Align and Translate](nlp/004-neural-machine-translation-by-Jointly-learning-to-align-and-translate.html)
 5. [Attention is all you need](nlp/005-attention-is-all-you-need.html)
 6. [GloVe: Global Vectors for Word Representation](nlp/006-gloVe-global-vectors-for-word-representation.html)
-
