@@ -9,6 +9,7 @@
 7. [SSD: Single Shot MultiBox Detector](007-ssd-single-shot-multibox-detector.md)
 8. [DSSD : Deconvolutional Single Shot Detector](cv/008-dssd-deconvolutional-single-shot-detector.md)
 9. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/009-rcnn-regions-with-cnn-features.md)
+10. [Mask R-CNN](cv/010-mask-r-cnn.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
