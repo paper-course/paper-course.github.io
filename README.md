@@ -8,6 +8,7 @@
 6. [You Only Look Once: Unified, Real-Time Object Detection](cv/006-you-only-look-once.md)
 7. [SSD: Single Shot MultiBox Detector](007-ssd-single-shot-multibox-detector.md)
 8. [DSSD : Deconvolutional Single Shot Detector](cv/008-dssd-deconvolutional-single-shot-detector.md)
+9. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/009-rcnn-regions-with-cnn-features.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
