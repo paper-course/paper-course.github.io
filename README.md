@@ -23,3 +23,7 @@
 4. [Neural Machine Translation by Jointly Learning to Align and Translate](nlp/004-neural-machine-translation-by-Jointly-learning-to-align-and-translate.html)
 5. [Attention is all you need](nlp/005-attention-is-all-you-need.html)
 6. [GloVe: Global Vectors for Word Representation](nlp/006-gloVe-global-vectors-for-word-representation.html)
+7. [Skip-Thought Vectors](nlp/007-skip-thought-vectors.html)
+8. [Convolutional Neural Networks for Sentence Classification](nlp/008-convolutional-neural-networks-for-sentence-classification.html)
+9. [Character-level Convolutional Networks for Text Classification](nlp/009-character-level-convolutional-networks-for-text-classification.html)
+10. [A Convolutional Neural Network for Modelling Sentences](nlp/010-a-convolutional-neural-network-for-modelling-sentences.html)
