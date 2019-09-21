@@ -11,6 +11,7 @@
 9. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/009-rcnn-regions-with-cnn-features.md)
 10. [Mask R-CNN](cv/010-mask-r-cnn.md)
 11. [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](cv/011-joint-face-detection-and-alignment-using-multi-task-cascaded-convolutional-networks.md)
+12. [FaceNet: A Unified Embedding for Face Recognition and Clustering](cv/012-facenet-a-unified-embedding-for-face-recognition-and-clustering.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
