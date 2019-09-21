@@ -6,6 +6,7 @@
 4. [Deep Residual Learning for Image Recognition](cv/004-deep-residual-learning-for-image-recognition.html)
 5. [Going Deeper with Convolutions](cv/005-going-deeper-with-convolutions.md)
 6. [You Only Look Once: Unified, Real-Time Object Detection](cv/006-you-only-look-once.md)
+7. [SSD: Single Shot MultiBox Detector](007-ssd-single-shot-multibox-detector.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
