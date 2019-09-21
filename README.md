@@ -6,7 +6,7 @@
 4. [Deep Residual Learning for Image Recognition](cv/004-deep-residual-learning-for-image-recognition.html)
 5. [Going Deeper with Convolutions](cv/005-going-deeper-with-convolutions.html)
 6. [You Only Look Once: Unified, Real-Time Object Detection](cv/006-you-only-look-once.html)
-7. [SSD: Single Shot MultiBox Detector](cv/007-ssd-single-shot-multibox-detector.md)
+7. [SSD: Single Shot MultiBox Detector](cv/007-ssd-single-shot-multibox-detector.html)
 8. [DSSD : Deconvolutional Single Shot Detector](cv/008-dssd-deconvolutional-single-shot-detector.html)
 9. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/009-rcnn-regions-with-cnn-features.html)
 10. [Mask R-CNN](cv/010-mask-r-cnn.html)
