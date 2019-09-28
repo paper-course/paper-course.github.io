@@ -31,3 +31,4 @@
 10. [A Convolutional Neural Network for Modelling Sentences](nlp/010-a-convolutional-neural-network-for-modelling-sentences.html)
 11. [Bag of Tricks for Efficient Text Classification](nlp/011-bag-of-tricks-for-efficient-text-classification.md)
 12. [Hierarchical Attention Networks for Document Classification](nlp/012-hierarchical-attention-networks-for-document-classification.md)
+13. [Neural Relation Extraction with Selective Attention over Instances](nlp/013-neural-relation-extraction-with-selective-attention-over-instances.md)
