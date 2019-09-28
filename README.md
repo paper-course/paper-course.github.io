@@ -6,7 +6,7 @@
 4. [Deep Residual Learning for Image Recognition](cv/004-deep-residual-learning-for-image-recognition.html)
 5. [Going Deeper with Convolutions](cv/005-going-deeper-with-convolutions.html)
 6. [You Only Look Once: Unified, Real-Time Object Detection](cv/006-you-only-look-once.html)
-7. [SSD: Single Shot MultiBox Detector](cv/007-ssd-single-shot-multibox-detector.html)
+7. [SSD: Single Shot MultiBox Detector](007-ssd-single-shot-multibox-detector.html)
 8. [DSSD : Deconvolutional Single Shot Detector](cv/008-dssd-deconvolutional-single-shot-detector.html)
 9. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/009-rcnn-regions-with-cnn-features.html)
 10. [Mask R-CNN](cv/010-mask-r-cnn.html)
@@ -15,6 +15,7 @@
 13. [Fully Convolutional Networks for Semantic Segmentation](cv/013-fully-convolutional-networks-for-semantic-segmentation.md)
 14. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](cv/014-deeplab-v2-semantic-image-segmentation.md)
 15. [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](cv/015-segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation.md)
+16. [Pyramid Scene Parsing Network](cv/016-pyramid-scene-parsing-network.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
