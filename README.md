@@ -16,6 +16,7 @@
 14. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](cv/014-deeplab-v2-semantic-image-segmentation.md)
 15. [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](cv/015-segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation.md)
 16. [Pyramid Scene Parsing Network](cv/016-pyramid-scene-parsing-network.md)
+17. [LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation](cv/017-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.md)
 
 ## NLP
 1. [Deep Learning](common/001-deep-learning.html)
