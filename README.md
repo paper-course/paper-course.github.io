@@ -29,3 +29,4 @@
 8. [Convolutional Neural Networks for Sentence Classification](nlp/008-convolutional-neural-networks-for-sentence-classification.html)
 9. [Character-level Convolutional Networks for Text Classification](nlp/009-character-level-convolutional-networks-for-text-classification.html)
 10. [A Convolutional Neural Network for Modelling Sentences](nlp/010-a-convolutional-neural-network-for-modelling-sentences.html)
+11. [Bag of Tricks for Efficient Text Classification](nlp/011-bag-of-tricks-for-efficient-text-classification.md)
