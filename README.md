@@ -34,13 +34,13 @@
 12. [Hierarchical Attention Networks for Document Classification](nlp/012-hierarchical-attention-networks-for-document-classification.html)
 13. [Neural Relation Extraction with Selective Attention over Instances](nlp/013-neural-relation-extraction-with-selective-attention-over-instances.html)
 14. [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](nlp/014-end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf.html)
-15. 
+15. []()
 16. [Convolutional Sequence to Sequence Learning](nlp/016-convolutional-sequence-to-sequence-learning.md)
-17. 
+17. []()
 18. [Phrase-Based & Neural Unsupervised Machine Translation](nlp/018-phrase-based-neural-unsupervised-machine-translation.md)
 19. [Get To The Point: Summarization with Pointer-Generator Networks](nlp/019-get-to-the-point-summarization-with-pointer-generator-networks.md)
 20. [End-To-End Memory Networks](nlp/020-end-to-end-memory-networks.md)
-21. [QANET:   Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
+21. [QANET: Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
 22. []()
 23. [Adversarial Learning for Neural Dialogue Generation](nlp/023-adversarial-learning-for-neural-dialogue-generation.md)
 24. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](nlp/024-sequence-generative-adversarial-nets-with-policy-gradient.md)
