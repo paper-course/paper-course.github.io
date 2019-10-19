@@ -34,19 +34,19 @@
 12. [Hierarchical Attention Networks for Document Classification](nlp/012-hierarchical-attention-networks-for-document-classification.html)
 13. [Neural Relation Extraction with Selective Attention over Instances](nlp/013-neural-relation-extraction-with-selective-attention-over-instances.html)
 14. [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](nlp/014-end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf.html)
-15. []()
+15. 
 16. [Convolutional Sequence to Sequence Learning](nlp/016-convolutional-sequence-to-sequence-learning.md)
-17. []()
+17. 
 18. [Phrase-Based & Neural Unsupervised Machine Translation](nlp/018-phrase-based-neural-unsupervised-machine-translation.md)
 19. [Get To The Point: Summarization with Pointer-Generator Networks](nlp/019-get-to-the-point-summarization-with-pointer-generator-networks.md)
 20. [End-To-End Memory Networks](nlp/020-end-to-end-memory-networks.md)
 21. [QANET: Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
-22. []()
+22. 
 23. [Adversarial Learning for Neural Dialogue Generation](nlp/023-adversarial-learning-for-neural-dialogue-generation.md)
 24. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](nlp/024-sequence-generative-adversarial-nets-with-policy-gradient.md)
-25. [Modeling Relational Data with Graph Convolutional Networks](nlp/025-modeling-relational-data-with-graph-onvolutional Networks.md)
+25. [Modeling Relational Data with Graph Convolutional Networks](nlp/025-modeling-relational-data-with-graph-convolutional-networks.md)
 26. [Exploring the limits of language model](nlp/026-exploring-the-limits-of-language-model.md)
 27. [Transformer-XL: Attentive Language ModelsBeyond a Fixed-Length Context](nlp/027-attentive-language-models-beyond-a-fixed-length-context.md)
 28. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](nlp/028-an-empirical-evaluation-of-generic-convolutional-and-recurrent-networks-for-sequence-modeling.md)
-29. []()
+29. 
 30. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](nlp/030-pre-training-of-deep-bidirectional-transformers-for-Language-understandin.md)
