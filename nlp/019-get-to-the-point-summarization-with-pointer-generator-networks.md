@@ -33,8 +33,6 @@
 
 ### 19.2 第二课时
 
-【第19篇】seq2seq精读
-
 <video width=80%  controls >
 	<source type="video/mp4" src="019-get-to-the-point-summarization-with-pointer-generator-networks/019-2.mp4">
 </video>

@@ -49,4 +49,4 @@
 27. [Transformer-XL: Attentive Language ModelsBeyond a Fixed-Length Context](nlp/027-attentive-language-models-beyond-a-fixed-length-context.md)
 28. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](nlp/028-an-empirical-evaluation-of-generic-convolutional-and-recurrent-networks-for-sequence-modeling.md)
 29. 
-30. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](nlp/030-pre-training-of-deep-bidirectional-transformers-for-Language-understandin.md)
+30. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](nlp/030-pre-training-of-deep-bidirectional-transformers-for-Language-understanding.md)

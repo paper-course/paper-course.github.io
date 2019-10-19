@@ -35,7 +35,7 @@
 
 **打卡要求：**阅读至少一篇近两年关于非欧数据的论文，比如电商推荐等，并描述其使用的具体方法。
 
-【第25篇】R-GCNs第二课时
+### 25.2 第二课时
 
 <video width=80%  controls >
 	<source type="video/mp4" src="025-modeling-relational-data-with-graph-convolutional-networks/025-2.mp4">
