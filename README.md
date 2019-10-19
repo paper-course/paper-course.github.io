@@ -36,3 +36,5 @@
 14. [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](nlp/014-end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf.html)
 15. 
 16. [Convolutional Sequence to Sequence Learning](nlp/016-convolutional-sequence-to-sequence-learning.md)
+17. 
+18. [Phrase-Based & Neural Unsupervised Machine Translation](nlp/018-phrase-based-neural-unsupervised-machine-translation.md)
