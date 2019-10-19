@@ -47,3 +47,4 @@
 25. [Modeling Relational Data with Graph Convolutional Networks](nlp/025-modeling-relational-data-with-graph-onvolutional Networks)
 26. [Exploring the limits of language model](nlp/026-exploring-the-limits-of-language-model.md)
 27. [Transformer-XL: Attentive Language ModelsBeyond a Fixed-Length Context](nlp/027-attentive-language-models-beyond-a-fixed-length-context.md)
+28. [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](nlp/028-an-empirical-evaluation-of-generic-convolutional-and-recurrent-networks-for-sequence-modeling.md)
