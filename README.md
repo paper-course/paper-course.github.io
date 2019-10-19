@@ -19,6 +19,7 @@
 17. [LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation](cv/017-linknet-exploiting-encoder-representations-for-efficient-semantic-segmentation.html)
 
 ## NLP
+
 1. [Deep Learning](common/001-deep-learning.html)
 2. [Efficient Estimation of Word Representations in Vector Space](nlp/002-efficient-estimation-of-word-representations-in-vector-space.html)
 3. [Distributed representations of sentences and docments](nlp/003-distributed-representations-of-sentences-and-docments.html)
@@ -33,3 +34,5 @@
 12. [Hierarchical Attention Networks for Document Classification](nlp/012-hierarchical-attention-networks-for-document-classification.html)
 13. [Neural Relation Extraction with Selective Attention over Instances](nlp/013-neural-relation-extraction-with-selective-attention-over-instances.html)
 14. [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](nlp/014-end-to-end-sequence-labeling-via-bi-directional-lstm-cnns-crf.html)
+15. 
+16. [Convolutional Sequence to Sequence Learning](nlp/016-convolutional-sequence-to-sequence-learning.md)
