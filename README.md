@@ -44,3 +44,4 @@
 22. []()
 23. [Adversarial Learning for Neural Dialogue Generation](nlp/023-adversarial-learning-for-neural-dialogue-generation.md)
 24. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](nlp/024-sequence-generative-adversarial-nets-with-policy-gradient.md)
+25. [Modeling Relational Data with Graph Convolutional Networks](nlp/025-modeling-relational-data-with-graph-onvolutional Networks)
