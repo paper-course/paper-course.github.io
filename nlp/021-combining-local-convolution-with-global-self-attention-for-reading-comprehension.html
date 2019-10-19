@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>QANET: Combining Local Convolution with Global Self-Attention for Reading Comprehension | PAPER COURSE</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="QANET: Combining Local Convolution with Global Self-Attention for Reading Comprehension" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="https://paper-course.github.io/" />
+<meta property="og:description" content="https://paper-course.github.io/" />
+<link rel="canonical" href="https://paper-course.github.io/nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.html" />
+<meta property="og:url" content="https://paper-course.github.io/nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.html" />
+<meta property="og:site_name" content="PAPER COURSE" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"https://paper-course.github.io/nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.html","description":"https://paper-course.github.io/","headline":"QANET: Combining Local Convolution with Global Self-Attention for Reading Comprehension","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=467592b0d89ce5efa193e96aee5c5f078b1a2c96">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">PAPER COURSE</h1>
+      <h2 class="project-tagline">https://paper-course.github.io/</h2>
+      
+      
+    </section>
+
+    <section class="main-content">
+      <h2 id="21-qanet---combining-local-convolution-with-global-self-attention-for-reading-comprehension">21. QANET:   Combining Local Convolution with Global Self-Attention for Reading Comprehension</h2>
+
+<h3 id="211-第一课时">21.1 第一课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="021-combining-local-convolution-with-global-self-attention-for-reading-comprehension/021-1.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>了解机器阅读理解的基本概念与其框架结构</p>
+
+<p><strong>任务简介：</strong>观看视频第一课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频第一课时
+    <ol>
+      <li>
+        <p>机器阅读理解的定义</p>
+
+        <p>机器阅读理解，是指让机器像人类一样阅读文本，进而根据对该文本的理解来回答问题。直观来讲，这种阅读理解就像是让计算机来做我们高考英语的阅读理解题。让机器完成阅读理解与问答是当前AI界前沿的一个火热主题，被视为是自动问答（Question Answering, QA）中的一个重要问题，主要涉及到深度学习、自然语言处理和信息检索等相关技术。</p>
+      </li>
+      <li>
+        <p>机器阅读理解的四种形式</p>
+
+        <ul>
+          <li>片段抽取式机器阅读理解</li>
+          <li>答案选择机器阅读理解</li>
+          <li>完形填空式机器阅读理解</li>
+          <li>文本生成机器阅读理解</li>
+        </ul>
+      </li>
+      <li>
+        <p>机器阅读理解框架结构</p>
+
+        <p>首先，输入篇章与问题的文本，经过表示层将文本转换为语义向量表示；然后，在编码层中，使用编码器对语义向量表示进行建模编码，使得模型能获得更高层次的表示；之后，在匹配层中，引入注意力机制。由于机器阅读理解任务中，问题与篇章并非相互孤立的存在,对两者进行交互联系，可以让模型更有效地聚焦于较重要的部分；最后，在答案层使用编码器继续编码当前的蕴含了相互信息的表示，并使用softmax来获得答案片段的开始与结束位置的概率分布。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>论文阅读</p>
+
+    <p>花费大致3小时来阅读论文，主要通过阅读了解模型的大致结构，将疑问记录在作业中。</p>
+
+    <p>这个部分我们只需要比较熟悉地了解到导读视频的程度，不需要过于深入地去学习，将重点放置在论文的模型上，对于其他的部分有疑问可以暂时记录着，并写在这两天的作业中。</p>
+  </li>
+</ol>
+
+<p><strong>论文及代码下载：</strong></p>
+
+<p>链接：https://pan.baidu.com/s/1SS1r4TTKU-6iXNwxuHrE9g</p>
+
+<p>提取码：ee7e</p>
+
+<h3 id="212-第二课时">21.2 第二课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="021-combining-local-convolution-with-global-self-attention-for-reading-comprehension/021-2.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>学习阅读论文的方法，进一步了解经典模型的部分细节，从理论掌握模型结构，论文中的技巧</p>
+
+<p><strong>任务简介：</strong>观看视频第二课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频
+    <ol>
+      <li>
+        <p>学习阅读论文的方法</p>
+
+        <p>论文的阅读不是从头到尾，也不是每个部分都一定是非常值得推敲。我们需要掌握练习合适的阅读节奏，在不同的学习阶段，去从论文中汲取不同的东西，将保证我们更有效率地学习，也将保证我们学习的过程更加自然。</p>
+      </li>
+      <li>
+        <p>进一步了解经典模型的部分细节</p>
+
+        <p>经典模型的部分细节的了解可以帮助我们更好地理解论文模型的部分细节，同时也为大家自助学习其他的经典模型提供了一个铺垫。</p>
+      </li>
+      <li>
+        <p>从理论掌握模型结构，论文中的技巧</p>
+
+        <p>模型的掌握不是画出网络图形，然后把公式写出来就算掌握了，那样只能算是对学习知识的复述。需要能真正明白模型的各个部分的所以然。这个部分将从整体到细节讲解模型结构的各个部分，主要思想的动机，与其他经典模型的对比，论文实现过程中使用到的技巧。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>阅读论文</p>
+
+    <p>在学习完视频之后再阅读论文，看看自己是不是能了然于胸，对照课程PPT阅读，记录疑问</p>
+  </li>
+</ol>
+
+<p><strong>论文及代码下载：</strong></p>
+
+<p>链接：https://pan.baidu.com/s/1SS1r4TTKU-6iXNwxuHrE9g</p>
+
+<p>提取码：ee7e</p>
+
+<h3 id="213-第三课时">21.3 第三课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="021-combining-local-convolution-with-global-self-attention-for-reading-comprehension/021-3.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>代码实践的方法与流程，讲解训练部分内容</p>
+
+<p><strong>任务简介：</strong>观看视频第三课时，跑通提供的代码，复现所有实现</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频
+    <ol>
+      <li>
+        <p>代码实践的方法与流程</p>
+
+        <p>代码实践时很多同学会无从下手，会躲避，但其实这个过程才是能力真正提升的时候。这个部分将带领大家掌握基本的寻找解决方案的流程，介绍如何利用一些工具去帮助我们高效配置环境，分析代码的结构。这些实战的经验很重要，需要大家不断地学习与应用。</p>
+      </li>
+      <li>
+        <p>讲解训练部分内容</p>
+
+        <p>实验的完成不单单只需要模型结构，训练对于模型实现效果也非常重要。这里重点讲解了一个非常基本，高度封装的训练流程，以及具体的TensorFlow的语法规则。</p>
+      </li>
+      <li>
+        <p>调整网络结构，提升准确率</p>
+
+        <p>在学习完视频之后自行调整网络结构，不断地尝试，提升准确率，记录尝试的方向以及对应的结果，需要大家认真完成，花出大量时间完成调试，认真积累自己碰到的错误，一一寻找解决。</p>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p><strong>打卡要求：</strong>（形式：图片）</p>
+
+<ol>
+  <li>
+    <p>复现开源的TensorFlow实现（https://github.com/NLPLearn/QANet）的测试结果</p>
+  </li>
+  <li>
+    <p>理解高速路网络和残差网络的不同之处</p>
+  </li>
+</ol>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
