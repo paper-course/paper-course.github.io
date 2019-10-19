@@ -43,3 +43,4 @@
 21. [QANET:   Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
 22. []()
 23. [Adversarial Learning for Neural Dialogue Generation](nlp/023-adversarial-learning-for-neural-dialogue-generation.md)
+24. [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](nlp/024-sequence-generative-adversarial-nets-with-policy-gradient.md)
