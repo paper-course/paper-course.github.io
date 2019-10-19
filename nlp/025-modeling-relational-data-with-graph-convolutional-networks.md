@@ -5,7 +5,7 @@
 ### 25.1 第一课时
 
 <video width=80%  controls >
-	<source type="video/mp4" src="025-modeling-relational-data-with-graph-convolutional networks/025-1.mp4">
+	<source type="video/mp4" src="025-modeling-relational-data-with-graph-convolutional-networks/025-1.mp4">
 </video>
 
 **任务名称：**了解非欧数据和知识图谱
@@ -38,7 +38,7 @@
 【第25篇】R-GCNs第二课时
 
 <video width=80%  controls >
-	<source type="video/mp4" src="025-modeling-relational-data-with-graph-convolutional networks/025-2.mp4">
+	<source type="video/mp4" src="025-modeling-relational-data-with-graph-convolutional-networks/025-2.mp4">
 </video>
 
 **任务名称：**学习阅读论文的方法，进一步了解经典模型的部分细节，从理论掌握模型结构，论文中的技巧
