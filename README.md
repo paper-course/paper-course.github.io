@@ -38,3 +38,4 @@
 16. [Convolutional Sequence to Sequence Learning](nlp/016-convolutional-sequence-to-sequence-learning.md)
 17. 
 18. [Phrase-Based & Neural Unsupervised Machine Translation](nlp/018-phrase-based-neural-unsupervised-machine-translation.md)
+19. [Get To The Point: Summarization with Pointer-Generator Networks](nlp/019-get-to-the-point-summarization-with-pointer-generator-networks.md)
