@@ -40,3 +40,4 @@
 18. [Phrase-Based & Neural Unsupervised Machine Translation](nlp/018-phrase-based-neural-unsupervised-machine-translation.md)
 19. [Get To The Point: Summarization with Pointer-Generator Networks](nlp/019-get-to-the-point-summarization-with-pointer-generator-networks.md)
 20. [End-To-End Memory Networks](nlp/020-end-to-end-memory-networks.md)
+21. [QANET:   Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
