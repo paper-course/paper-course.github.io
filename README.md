@@ -41,3 +41,5 @@
 19. [Get To The Point: Summarization with Pointer-Generator Networks](nlp/019-get-to-the-point-summarization-with-pointer-generator-networks.md)
 20. [End-To-End Memory Networks](nlp/020-end-to-end-memory-networks.md)
 21. [QANET:   Combining Local Convolution with Global Self-Attention for Reading Comprehension](nlp/021-combining-local-convolution-with-global-self-attention-for-reading-comprehension.md)
+22. []()
+23. [Adversarial Learning for Neural Dialogue Generation](nlp/023-adversarial-learning-for-neural-dialogue-generation.md)
