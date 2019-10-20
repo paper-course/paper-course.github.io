@@ -65,7 +65,7 @@
 ### 8.3 第三课时
 
 <video width=80%  controls >
-	<source type="video/mp4" src="008-yolov-an-incremental-improvement/008-2.mp4">
+	<source type="video/mp4" src="008-yolov-an-incremental-improvement/008-3.mp4">
 </video>
 
 **任务名称：**掌握如何生成训练数据的代码，图像等比变化代码，理解损失函数代码。
