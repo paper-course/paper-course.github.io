@@ -37,7 +37,7 @@
 
 提取码：v7jg 
 
-【第25篇】Siamese FC 第二课时
+### 25.2 第二课时
 
 <video width=80%  controls >
 	<source type="video/mp4" src="025-fully-convolutional-siamese-networks-for-object-tracking/025-2.mp4">
