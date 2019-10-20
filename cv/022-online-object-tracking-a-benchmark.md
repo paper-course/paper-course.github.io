@@ -38,7 +38,7 @@
 ### 22.2 第二课时
 
 <video width=80%  controls >
-	<source type="video/mp4" src="022-online-object-tracking-a-benchmark/022-1.mp4">
+	<source type="video/mp4" src="022-online-object-tracking-a-benchmark/022-2.mp4">
 </video>
 
 **任务名称：**了解目标跟踪问题
