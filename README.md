@@ -8,7 +8,7 @@
 6. [Focal Loss for Dense Object Detection](cv/006-focal-loss-for-dense-object-detection.md)
 7. [You Only Look Once: Unified, Real-Time Object Detection](cv/007-you-only-look-once.md)
 8. [YOLOv3: An Incremental Improvement](cv/008-yolov-an-incremental-improvement.md)
-9. [SSD: Single Shot MultiBox Detector](009-ssd-single-shot-multibox-detector.md)
+9. [SSD: Single Shot MultiBox Detector](cv/009-ssd-single-shot-multibox-detector.md)
 10. [DSSD : Deconvolutional Single Shot Detector](cv/010-dssd-deconvolutional-single-shot-detector.md)
 11. [Rich feature hierarchies for accurate object detection and semantic segmentation](cv/011-rcnn-regions-with-cnn-features.md)
 12. [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](cv/012-towards-real-time-object-detection-with-region-proposal-networks.md)
