@@ -16,7 +16,7 @@
 14. [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](cv/014-joint-face-detection-and-alignment-using-multi-task-cascaded-convolutional-networks.md)
 15. [FaceNet: A Unified Embedding for Face Recognition and Clustering](cv/015-facenet-a-unified-embedding-for-face-recognition-and-clustering.md)
 16. [Fully Convolutional Networks for Semantic Segmentation](cv/016-fully-convolutional-networks-for-semantic-segmentation.md)
-17. [U-Net: Convolutional Networks for Biomedical Image Segmentation]()
+17. [U-Net: Convolutional Networks for Biomedical Image Segmentation](cv/017-convolutional-networks-for-biomedical-image-segmentation.md)
 18. [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](cv/018-deeplab-v2-semantic-image-segmentation.md)
 19. [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](cv/019-segnet-a-deep-convolutional-encoder-decoder-architecture-for-image-segmentation.md)
 20. [Pyramid Scene Parsing Network](cv/020-pyramid-scene-parsing-network.md)
