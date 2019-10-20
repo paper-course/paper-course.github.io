@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Sequence to Sequence Learning with Neural Networks | PAPER COURSE</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Sequence to Sequence Learning with Neural Networks" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="https://paper-course.github.io/" />
+<meta property="og:description" content="https://paper-course.github.io/" />
+<link rel="canonical" href="https://paper-course.github.io/nlp/015-sequence-to-sequence-learning-with-neural-networks.html" />
+<meta property="og:url" content="https://paper-course.github.io/nlp/015-sequence-to-sequence-learning-with-neural-networks.html" />
+<meta property="og:site_name" content="PAPER COURSE" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"https://paper-course.github.io/nlp/015-sequence-to-sequence-learning-with-neural-networks.html","description":"https://paper-course.github.io/","headline":"Sequence to Sequence Learning with Neural Networks","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=69d257a457d5c87298257e080d22f1b2226b8154">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">PAPER COURSE</h1>
+      <h2 class="project-tagline">https://paper-course.github.io/</h2>
+      
+      
+    </section>
+
+    <section class="main-content">
+      <h2 id="15-sequence-to-sequence-learning-with-neural-networks">15. Sequence to Sequence Learning with Neural Networks</h2>
+
+<h3 id="151-第一课时">15.1 第一课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="015-sequence-to-sequence-learning-with-neural-networks/015-1.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>了解神经机器翻译的概念以及两种神经机器翻译模型。了解LSTM以及多层LSTM的概念以及Seq2Seq模型。</p>
+
+<p><strong>任务简介：</strong>观看视频第一课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>
+    <p>视频第一课时</p>
+
+    <ol>
+      <li>
+        <p>神经机器翻译概率</p>
+
+        <p>神经机器翻译就是使用神经网络使得机器能够自动将一种语言的句子翻译成另外一种语言的句子，它可以解决不同母语的人之间的交流障碍。</p>
+      </li>
+      <li>
+        <p>两种神经机器翻译模型</p>
+
+        <p>最开始的神经机器翻译模型只是使用一个多层的LSTM，多层LSTM的最底层为源语言的输入，多层LSTM的最高层为目标语言的输出。之后产生了Encoder-Decoder的模型，即Encoder将源语言的句子压缩成一个向量，Decoder利用压缩得到的向量生成目标语言的句子。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>LSTM以及多层LSTM</p>
+
+    <p>LSTM是一种特殊的RNN，通过增加一个记忆细胞和几个门来加强序列处理的长距离依赖。而多层LSTM就是单层LSTM网上叠加，上一层LSTM每一个时间步的输出作为当前层LSTM的输入。</p>
+  </li>
+  <li>
+    <p>论文阅读</p>
+
+    <p>花费大致2h来阅读论文，主要通过阅读了解模型的大致结构，将疑问记录在作业中。</p>
+
+    <p>这个部分我们只需要比较熟悉地了解到导读视频的程度，不需要过于深入地去学习，将重点放置在论文的模型上，对于其他的部分有疑问可以暂时记录着，并写在这两天的作业中。</p>
+  </li>
+</ol>
+
+<p><strong>论文原文及代码下载链接：</strong></p>
+
+<p>链接：https://pan.baidu.com/s/13p-YElNGPAKdWfJHfCEtoA</p>
+
+<p>提取码：w7rb</p>
+
+<p>打卡要求：（形式：文字，字数至少100）总结两种神经机器翻译模型的联系和区别，试图画图解释单层LSTM与多层LSTM。</p>
+
+<h3 id="152-第二课时">15.2 第二课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="015-sequence-to-sequence-learning-with-neural-networks/015-2.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>进一步了解论文中的基于多层LSTM的神经机器翻译模型的部分细节，从理论掌握模型结构，论文中的技巧</p>
+
+<p><strong>任务简介：</strong>观看视频第二课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>
+    <p>视频</p>
+
+    <ol>
+      <li>
+        <p>上节回顾</p>
+
+        <p>回顾上节讲的神经机器翻译的概念以及两种神经机器翻译模型。</p>
+      </li>
+      <li>
+        <p>论文中提到的对比模型</p>
+
+        <p>理解论文中提到了基于attention的神经机器翻译模型。</p>
+      </li>
+      <li>
+        <p>论文提出的模型以及实验结果</p>
+
+        <p>深入理解论文提出的基于多层LSTM的神经机器翻译模型，并查看实验结果。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>阅读论文</p>
+
+    <p>先自己尝试观看本次论文，然后在看视频进一步解决自己的困惑并加强理解本篇论文。</p>
+  </li>
+</ol>
+
+<p><strong>打卡要求：</strong>（形式：文字或者图片，字数至少100）</p>
+
+<ol>
+  <li>
+    <p>本文为何使用多层LSTM来代替单层LSTM？</p>
+  </li>
+  <li>
+    <p>本文创新点是什么？</p>
+  </li>
+  <li>
+    <p>本文为何对输入进行逆序？</p>
+  </li>
+</ol>
+
+<h3 id="153-第三课时">15.3 第三课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="015-sequence-to-sequence-learning-with-neural-networks/015-3.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>代码实践的方法与流程，讲解论文提出的模型的tensorflow实现</p>
+
+<p><strong>任务简介：</strong>观看视频第三课时，跑通提供的代码，调整网络结构提升准确率</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>
+    <p>视频</p>
+
+    <ol>
+      <li>
+        <p>数据处理方法</p>
+
+        <p>本文的数据处理是针对机器翻译的双语预料，希望大家学习双语预料的数据处理方法。</p>
+      </li>
+      <li>
+        <p>模型的构建</p>
+
+        <p>使用tensorflow构建整个模型，理解其中针对Decoder和Beam Search的一系列操作背后的原理。</p>
+      </li>
+      <li>
+        <p>训练和测试</p>
+
+        <p>利用构建好的模型在以及处理好的数据上进行训练和测试并验证试验结果。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>调整学习轮次提高准确率</p>
+
+    <p>通过调整学习的轮次查看模型的准确率是否能够一直提高。</p>
+  </li>
+</ol>
+
+<p><strong>打卡要求：</strong>（形式：图片）</p>
+
+<ol>
+  <li>
+    <p>开源自己的tensorflow (其他框架均可以)实现。</p>
+  </li>
+  <li>
+    <p>在iwslt14数据集上的实验结果并截图。</p>
+  </li>
+  <li>
+    <p>试图提高模型在测试集上的结果。</p>
+  </li>
+</ol>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
