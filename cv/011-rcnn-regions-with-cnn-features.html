@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Rich feature hierarchies for accurate object detection and semantic segmentation | PAPER COURSE</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Rich feature hierarchies for accurate object detection and semantic segmentation" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="https://paper-course.github.io/" />
+<meta property="og:description" content="https://paper-course.github.io/" />
+<link rel="canonical" href="https://paper-course.github.io/cv/011-rcnn-regions-with-cnn-features.html" />
+<meta property="og:url" content="https://paper-course.github.io/cv/011-rcnn-regions-with-cnn-features.html" />
+<meta property="og:site_name" content="PAPER COURSE" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"https://paper-course.github.io/cv/011-rcnn-regions-with-cnn-features.html","description":"https://paper-course.github.io/","headline":"Rich feature hierarchies for accurate object detection and semantic segmentation","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=ddbd419341ee9a5a99930d30af9c91ce18ef1375">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">PAPER COURSE</h1>
+      <h2 class="project-tagline">https://paper-course.github.io/</h2>
+      
+      
+    </section>
+
+    <section class="main-content">
+      <h2 id="11-rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation">11. Rich feature hierarchies for accurate object detection and semantic segmentation</h2>
+
+<h3 id="111-第一课时">11.1 第一课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="011-rcnn-regions-with-cnn-features/011-1.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>了解目标检测问题，目标检测的基本分类，经典的目标检测模型</p>
+
+<p><strong>任务简介：</strong>观看视频第一、二课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频第一课时
+    <ol>
+      <li>
+        <p>论文的研究背景、成果及意义</p>
+
+        <p>为大家解答为什么这篇论文成为了近几年来目标识别领域非常火热的论文。讲解为什么为什么这篇论文被看作近期目标识别领域的基础，以及本文做的几点贡献</p>
+      </li>
+      <li>
+        <p>Abstract，Introduction部分详读</p>
+
+        <p>讲解关键点识别目前主要受制约的地方</p>
+      </li>
+      <li>
+        <p>课程规划</p>
+
+        <p>第二期课程与第一期课程安排不太一样，所以我们需要给大家着重讲解下课程安排</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>论文阅读</p>
+
+    <p>花费大致2h来阅读论文，主要通过阅读了解模型的大致结构，将疑问记录在作业中。</p>
+
+    <p>这个部分我们只需要比较熟悉地了解到导读视频的程度，不需要过于深入地去学习，将重点放置在论文的模型上，对于其他的部分有疑问可以暂时记录着，并写在这两天的作业中。</p>
+  </li>
+</ol>
+
+<p><strong>论文原文下载：</strong></p>
+
+<p>链接：https://pan.baidu.com/s/1I4wunoNzqspM79NEVNQyPg</p>
+
+<p>提取码：sbdr</p>
+
+<p><strong>打卡要求</strong>：按照自己的理解总结上述三个知识点（最好分点清晰，有树状的层次结构，必要时推导公式），至少提出2个疑问，用文字写下来，字数至少100。</p>
+
+<h3 id="112-第二课时">11.2 第二课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="011-rcnn-regions-with-cnn-features/011-2.mp4" />
+</video>
+
+<p><strong>任务简介：</strong>观看视频第二课时，阅读论文</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频
+    <ol>
+      <li>
+        <p>学习阅读论文的方法</p>
+
+        <p>论文的阅读不是从头到尾，也不是每个部分都一定是非常值得推敲。我们需要掌握练习合适的阅读节奏，在不同的学习阶段，去从论文中汲取不同的东西，将保证我们更有效率地学习，也将保证我们学习的过程更加自然。</p>
+      </li>
+      <li>
+        <p>进一步了解经典模型的部分细节</p>
+      </li>
+    </ol>
+
+    <p>经典模型的部分细节的了解可以帮助我们更好地理解论文模型的部分细节，同时也为大家自助学习其他的经典模型提供了一个铺垫。</p>
+
+    <ol>
+      <li>
+        <p>从理论掌握模型结构，论文中的技巧</p>
+
+        <p>了解网络评估的方式，包括目标表示方式，搜索机制。这个部分将从整体到细节讲解模型结构的各个部分，主要思想的动机，与其他经典模型的对比，论文实现过程中使用到的技巧。</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>阅读论文</p>
+
+    <p>在学习完视频之后再阅读论文，看看自己是不是能了然于胸，对照课程PPT阅读，记录疑问</p>
+  </li>
+</ol>
+
+<p><strong>打卡要求：</strong></p>
+
+<ol>
+  <li>通过文字或者图片的形式写下这篇论文中的技术要点，字数不少于100字。</li>
+</ol>
+
+<p><strong>思考题：</strong></p>
+
+<ol>
+  <li>
+    <p>文中设置了哪些对照组实验？在进行对比的时候分别使用了什么？</p>
+  </li>
+  <li>
+    <p>为什么要使用数据增强？</p>
+  </li>
+  <li>
+    <p>RCNN系列的总结，罗列每一种算法的优缺点</p>
+  </li>
+</ol>
+
+<p><strong>论文原文下载：</strong></p>
+
+<p>链接：https://pan.baidu.com/s/1I4wunoNzqspM79NEVNQyPg</p>
+
+<p>提取码：sbdr</p>
+
+<h3 id="113-第三课时">11.3 第三课时</h3>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="011-rcnn-regions-with-cnn-features/011-3-1.mp4" />
+</video>
+
+<video width=80%  controls >
+	<source type="video/mp4" src="011-rcnn-regions-with-cnn-features/011-3-2.mp4" />
+</video>
+
+<p><strong>任务名称：</strong>代码实践的方法与流程，从0编码模型结构，讲解训练部分内容</p>
+
+<p><strong>任务简介：</strong>观看视频第3课时，理解RCNN的代码部分</p>
+
+<p><strong>任务详解：</strong></p>
+
+<ol>
+  <li>视频
+    <ol>
+      <li>
+        <p>代码实践的方法与流程</p>
+
+        <p>这个部分将带领大家掌握基本的寻找解决方案的流程，介绍如何利用一些工具去帮助我们高效分析代码的结构。这些实战的经验很重要，需要大家不断地学习与应用。</p>
+      </li>
+      <li>
+        <p>讲解训练部分内容</p>
+
+        <p>实验的完成不单单只需要模型结构，训练的设置对于模型实现效果也非常重要。这里重点讲解了通常编解码框架都需要的训练流程，以及论文中使用的部分技巧。这些东西也是要求大家能灵活运用的。</p>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p><strong>打卡要求：</strong>理解程序，调试并运行出结果</p>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
